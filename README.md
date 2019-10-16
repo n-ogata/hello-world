@@ -3,7 +3,7 @@ Hello World
 
 Hi
 
-I'm Natuki Ogata. 40 years old.
+I'm Natuki Ogata.
 I'm software engineer.
 
 Thunks!
